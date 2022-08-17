@@ -1,11 +1,3 @@
-/**
- *
- * @Author: lenovo
- * @Email: lingchenyiduz@gmail.com
- * @QQ: 3334241893
- * @Date: 2022-08-17
- */
-
 package main
 
 import (
